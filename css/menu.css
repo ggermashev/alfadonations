@@ -1,0 +1,47 @@
+body {
+    background-image: url('../images/background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    /*background: linear-gradient(-60deg, rgba(255,255,255,1) 15%, rgba(210,10,10,1) 80%, rgba(255,255,255,1) 100%);*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: cover;*/
+    /*background-attachment: fixed;*/
+}
+
+.menu {
+    color: red;
+    border-radius: 10px;
+    font-size: 24px;
+}
+
+.menu:hover {
+    color: red;
+    cursor: pointer;
+    background-color: white;
+    border-bottom: 2px solid red;
+}
+
+.menu:focus {
+    color: red;
+    opacity: 100%;
+}
+
+.nav-link {
+    color: red;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 20px;
+    border-bottom: 2px solid black;
+}
+
+h2,h3 {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.right {
+    float: right;
+}

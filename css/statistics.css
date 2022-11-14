@@ -1,0 +1,45 @@
+ol {
+    margin: 0px;
+    padding: 0px;
+}
+
+li {
+    margin: 0px;
+    padding: 0px;
+}
+
+.col {
+    padding-left: 0px;
+    padding-right: 0px  ;
+}
+
+.donator {
+    color: black;
+    font-size: 24px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#donate-list {
+    height: 90%;
+    width: 33%;
+    position: absolute;
+    border-right: 3px solid black;
+}
+
+#goal-list {
+    height: 90%;
+    width: 33%;
+    position: absolute;
+}
+
+.add-aim {
+    margin-bottom: 30px;
+}
+
+.amount {
+    text-align: center;
+    font-size: 24px;
+}

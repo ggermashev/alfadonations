@@ -1,0 +1,16 @@
+.header {
+    margin-bottom: 50px;
+}
+
+.form-control {
+    margin-bottom: 20px;
+}
+
+.form-label {
+    color: black;
+}
+
+.subbtn:hover {
+    background-color: black;
+    color: white;
+}
